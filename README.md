@@ -1,3 +1,11 @@
+## Reproduction of LLM-as-PDDL Formalizer
+
+This repository reproduces the experiments from the original project:
+https://github.com/CassieHuang22/llm-as-pddl-formalizer
+
+This reproduction is conducted as part of the SYAIR reproducibility program.
+
+
 # llm-as-pddl-formalizer
 **llm-as-pddl-formalizer** is a set of data and pipeline that uses LLMs to generate PDDL.
 
